@@ -20,5 +20,8 @@
   "bugs": {
     "url": "https://github.com/JuzerShakir/fylo/issues"
   },
-  "homepage": "https://github.com/JuzerShakir/fylo#readme"
+  "homepage": "https://github.com/JuzerShakir/fylo#readme",
+  "devDependencies": {
+    "tailwindcss": "^3.3.3"
+  }
 }
