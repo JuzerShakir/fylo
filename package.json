@@ -1,0 +1,24 @@
+{
+  "name": "fylo",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/JuzerShakir/fylo.git"
+  },
+  "keywords": [
+    "css3",
+    "flex",
+    "tailwind"
+  ],
+  "author": "Juzer Shakir",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/JuzerShakir/fylo/issues"
+  },
+  "homepage": "https://github.com/JuzerShakir/fylo#readme"
+}
