@@ -1,6 +1,7 @@
 /** @type {import('tailwindcss').Config} */
 module.exports = {
   content: ["./*.html"],
+  darkMode: "class",
   theme: {
     extend: {
       colors: {
@@ -22,6 +23,11 @@ module.exports = {
         "curvy-dark-mode": "url('../images/bg-curvy-dark-mode.svg')",
         "curvy-light-mode": "url('../images/bg-curvy-light-mode.svg')",
       }),
+    },
+  },
+  variants: {
+    extend: {
+      backgroundImage: ["dark"],
     },
   },
   plugins: [],
